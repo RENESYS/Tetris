@@ -8,4 +8,4 @@ This is the Tetris game using pdcurse library.
 
 User can play the game in console window using keyboard.
 
-Also this game support file command. When the user type some command letters on file, program will move blocks. 
+Also this game support file command. When the user type some command letters on file, program will read and move blocks. 
